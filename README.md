@@ -1,4 +1,4 @@
-# [PROJECT NAME]
+# UU Reproducible Code Workshop
 
 ## Project organization
 - PG = project-generated
