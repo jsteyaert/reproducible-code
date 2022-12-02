@@ -29,7 +29,17 @@ j.c.steyaert@uu.nl
 └── scripts            <- Contains scripts to run figures 2-5
 
 ```
-## 
+## Citations for Datasets Used:
+1. Global Reservoirs and Dams Database from 
+  Lehner, B., C. Reidy Liermann, C. Revenga, C. Vörösmarty, B. Fekete, P. Crouzet, P. Döll, M. Endejan, K. Frenken, J. Magome, C. Nilsson, J.C. Robertson,
+  R. Rodel, N. Sindorf, and D. Wisser. 2011. High-resolution mapping of the world’s reservoirs and dams for sustainable river-flow management. Frontiers in
+  Ecology and the Environment 9 (9): 494-502.
+2. Standardized Precipitation Index from the National Center for Atmospheric Research
+   https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-index-spi
+3. Standardized Streamflow Index Calculations from 
+   Vicente-Serrano Sergio, M., López-Moreno Juan, I., Beguería, S., Lorenzo-Lacruz, J., Azorin-Molina, C., and Morán-Tejeda, E.: Accurate Computation of a
+   Streamflow Drought Index, Journal of Hydrologic Engineering, 17, 318-332, 10.1061/(ASCE)HE.1943-5584.0000433, 2012.![image](https://user-images.githubusercontent.com/56930707/205272637-652f432f-b077-49bc-81f0-a9b9c3aafc4a.png)
+
 
 ## License
 
