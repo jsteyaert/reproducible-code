@@ -1,4 +1,6 @@
 # UU Reproducible Code Workshop
+### created by Jennie C. Steyaert on December 1st, 2022
+### j.c.steyaert@uu.nl
 
 ## Project organization
 - PG = project-generated
