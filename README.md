@@ -33,12 +33,13 @@ contact: j.c.steyaert@uu.nl
 ## Citations for Datasets Used:
 1. Global Reservoirs and Dams Database from 
   
-  Lehner, B., C. Reidy Liermann, C. Revenga, C. Vörösmarty, B. Fekete, P. Crouzet, P. Döll, M. Endejan, K. Frenken, J. Magome, C. Nilsson, J.C. Robertson,
-  R. Rodel, N. Sindorf, and D. Wisser. 2011. High-resolution mapping of the world’s reservoirs and dams for sustainable river-flow management. Frontiers in
-  Ecology and the Environment 9 (9): 494-502.
+    Lehner, B., C. Reidy Liermann, C. Revenga, C. Vörösmarty, B. Fekete, P. Crouzet, P. Döll, M. Endejan, K. Frenken, J. Magome, C. Nilsson, J.C.
+    Robertson, R. Rodel, N. Sindorf, and D. Wisser. 2011. High-resolution mapping of the world’s reservoirs and dams for sustainable river-flow management.     Frontiers in Ecology and the Environment 9 (9): 494-502.
+
 2. Standardized Precipitation Index from the National Center for Atmospheric Research
    
    https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-index-spi
+
 3. Standardized Streamflow Index Calculations from 
   
    Vicente-Serrano Sergio, M., López-Moreno Juan, I., Beguería, S., Lorenzo-Lacruz, J., Azorin-Molina, C., and Morán-Tejeda, E.: Accurate Computation of a
