@@ -2,6 +2,7 @@
 # Jen Steyaert
 # 11-10-2021
 
+library(lintr)
 library(lubridate)
 library(tidyverse)
 library(reshape)
@@ -29,7 +30,7 @@ daily_files <- list.files(pattern = "daily_averages")
 setwd("../monthly_FF")
 monthly_files <- list.files(pattern = "monthly_averages")
 
-for (l in 1:length(daily_files)){
+for (l in 1:length(daily_files)){ # Wants me to change this to sequence instead
   file_name <- daily_files[l]
   setwd("../daily_FF")
   daily_data <- read.csv(file = file_name, stringsAsFactors = FALSE)
@@ -208,10 +209,12 @@ resopsus_grand <- ggplot(storcap_graphing, mapping = aes(x = all_years, y = valu
   scale_linetype_manual("Data Source", values = c( 1, 2))+
 
   xlab("Year")+
-  theme_classic()  +
-  theme(legend.position= "none",axis.title.y = element_text(face = "bold"),
-   axis.title.x= element_text(face = "bold"), axis.text.y = element_text(face = "bold"), 
-   axis.text.x = element_text(face = "bold"))
+  theme_classic()+
+  theme( legend.position = "none", 
+         axis.title.y = element_text(face = "bold"),
+         axis.title.x= element_text(face = "bold"), 
+         axis.text.y = element_text(face = "bold"), 
+         axis.text.x = element_text(face = "bold"))
 
 
 # Make final facet plot for the paper 
